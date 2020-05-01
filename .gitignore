@@ -293,3 +293,6 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/java,linux,macos,maven,gradle,windows,eclipse,netbeans,intellij+all
+
+# Ignore Gradle build output directory
+build
